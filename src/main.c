@@ -1,5 +1,4 @@
 #include "..\include\image.h"
-#include "..\include\bits.h" 
 
 int main()
 {
